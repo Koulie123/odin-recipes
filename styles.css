@@ -1,0 +1,26 @@
+.titlepage {
+    font-size: 40px;
+    font-family: 'Gothic', sans-serif;
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
+body {
+    background-color: black;
+    background-image: url('images/lightning-strike-noaa.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.links {
+    color: yellow; 
+    font-family: Arial;
+    font-size: 25px;
+    text-align: center;
+}
+ul, ol {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: yellow;
+    color: black;
+    
+}
